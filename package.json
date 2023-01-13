@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "javascripting": "^2.7.4"
-  }
+  },
+  "name": "javascripting-exercise",
+  "description": "JavaScripting exercises.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": 
+"git+https://github.com/souris-ash-mckinsey/javascripting-exercise.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "souris ash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souris-ash-mckinsey/javascripting-exercise/issues"
+  },
+  "homepage": "https://github.com/souris-ash-mckinsey/javascripting-exercise#readme"
 }
