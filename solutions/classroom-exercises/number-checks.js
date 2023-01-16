@@ -43,5 +43,4 @@ const isArmstrong = (num) => {
   return runningSum === num;
 }
 
-console.log(isArmstrong(153));
-console.log(isPrime(17));
+module.exports = { isArmstrong, isPrime }
