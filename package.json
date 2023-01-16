@@ -6,14 +6,15 @@
   "description": "JavaScripting exercises.",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": 
-"git+https://github.com/souris-ash-mckinsey/javascripting-exercise.git"
+    "url": "git+https://github.com/souris-ash-mckinsey/javascripting-exercise.git"
   },
   "keywords": [
     "javascript"
